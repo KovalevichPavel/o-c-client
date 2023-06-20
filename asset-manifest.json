@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06cc5d04.css",
+    "main.js": "/static/js/main.817b294b.js",
+    "static/media/robotHead2.svg": "/static/media/robotHead2.5af0608819e8d9c56895.svg",
+    "static/media/planet.jpg": "/static/media/planet.470719d65478750dc702.jpg",
+    "static/media/background1.png": "/static/media/background1.ceec42cb2e4c9e4e6322.png",
+    "index.html": "/index.html",
+    "main.06cc5d04.css.map": "/static/css/main.06cc5d04.css.map",
+    "main.817b294b.js.map": "/static/js/main.817b294b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06cc5d04.css",
+    "static/js/main.817b294b.js"
+  ]
+}
